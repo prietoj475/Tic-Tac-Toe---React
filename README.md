@@ -1,5 +1,5 @@
 # Tic-Tac-Toe---React Tutorial
-<p>For this project I followed the Reacts tutorial to create a tic-tac-toe game. It monitors each players moves and checks for win senarios. </p>
+<p>For this project I followed the React tutorial to create a tic-tac-toe game. It monitors each players moves and checks for win senarios. </p>
 <p> An in game example can be seen below </p>
 
 <img
